@@ -1,3 +1,3 @@
 echo @off
-python creator.py
+python menu.py
 PAUSE
