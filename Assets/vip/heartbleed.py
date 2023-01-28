@@ -1,1 +1,0 @@
-print("You Can Buy The Key: Contact in discord!")
