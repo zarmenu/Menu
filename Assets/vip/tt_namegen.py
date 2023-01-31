@@ -1,0 +1,1 @@
+print("[+] Error: Purchase Key from Developer")

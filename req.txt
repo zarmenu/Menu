@@ -1,0 +1,12 @@
+colorama
+selenium
+request
+pystyle
+subprocess
+smtplib
+re
+speedtest-cli
+aiohttp
+asyncio
+websocket-client
+
