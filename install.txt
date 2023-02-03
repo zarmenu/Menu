@@ -1,0 +1,17 @@
+1) Install Python (Any Version will Do) https://www.python.org/
+
+2) Chromedriver (Latest To Your Chrome) https://chromedriver.chromium.org/downloads
+	↳Replace the Driver With My Driver If not Woring! YouTube will explain zarmenu
+
+3) When Python is Install it will Show a Wizzard Instalation
+	↳Check the box for (Add pip to enviroment)
+
+4) If done Correctly go to the zarmenu.
+	↳Cick Menu on top and say cmd 
+	↳pip install -r req.txt
+	All Done!
+
+5) Enjoy | Do conaact me for any help
+
+
+Path: Assets\DATA\password.txt

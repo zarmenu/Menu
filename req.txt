@@ -1,0 +1,16 @@
+colorama
+selenium
+request
+pystyle
+subprocess
+discord-webhook
+smtplib
+re
+speedtest-cli
+aiohttp
+asyncio
+websocket-client
+discordwebhook
+fake-useragent
+instagramy
+Django
