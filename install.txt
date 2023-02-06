@@ -3,6 +3,8 @@
 2) Chromedriver (Latest To Your Chrome) https://chromedriver.chromium.org/downloads
 	↳Replace the Driver With My Driver If not Woring! YouTube will explain zarmenu
 
+
+
 3) When Python is Install it will Show a Wizzard Instalation
 	↳Check the box for (Add pip to enviroment)
 
